@@ -1,2 +1,2 @@
 def divide(a : int, b: int) -> int:
-    return 2
+    pass
